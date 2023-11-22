@@ -20,5 +20,5 @@ from App.views import servicios
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', servicios),
+    path('servicios/', servicios),
 ]
