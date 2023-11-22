@@ -7,7 +7,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/"
+      "dest": "Mining/wsgi.py"
     }
   ]
 }
