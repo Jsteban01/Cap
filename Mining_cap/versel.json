@@ -6,8 +6,8 @@
   }],
   "routes": [
     {
-      "src": "/(/servicios.html)",
-      "dest": "Mining/wsgi.py"
+      "src": "/(.*)",
+      "dest": "/"
     }
   ]
 }
