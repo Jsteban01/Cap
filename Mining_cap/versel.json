@@ -6,7 +6,7 @@
   }],
   "routes": [
     {
-      "src": "/Mining_cap/App/templates/App(.html)",
+      "src": "/(.*)",
       "dest": "Mining/wsgi.py"
     }
   ]
